@@ -1,0 +1,8 @@
+[
+  {
+    "user_id": 101,
+    "event": "purchase",
+    "product_id": 1201,
+    "timestamp": "2026-05-12T10:00:00"
+  }
+]
